@@ -1,0 +1,244 @@
+[
+  {
+    "name": "auth_strategy",
+    "value": "sso",
+    "domain": "sudrf.cntd.ru",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "auth_sso_session",
+    "value": "SSO_1abca4fa-26c0-11ec-9621-0242ac130002_IaHkWTCdPI50BMIF03WjjNHO0HoRD1lU_e4fbd36470367507fe6b860287b5400d46a1a04568d86bedc4631497643990b4",
+    "domain": "sudrf.cntd.ru",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "cas1_session",
+    "value": "eyJpdiI6IkdRVmpadGV0aUpiY2hacTg2N2E4cmc9PSIsInZhbHVlIjoiVXRmbGl0alArTXB1VTVaYmtmRm5TVmZLa2IwUEh4dGVIVkJLMG1WYmNaN0J4QWExN2FybG1HODJXY0c4ZUtYZFZvMW9sN1Z4N2NOQm04TisrU2JLZFFwSFdrUUtOUUM1TnZjeE9xNjBnell5NXlQODNndHRxbUJ0Y2loVTJNY3giLCJtYWMiOiIzZWJlMTIzZjk4MmYxZmQwZTNiNTA3YzlhMDIyMjE4NzI3N2FjZGU4YjljMWNhMDZmODJkN2UyNGY1MGNmOTk1IiwidGFnIjoiIn0%3D",
+    "domain": "auth.kodeks.ru",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "auth_sso-channel",
+    "value": "a5e68ed3adeb074c3a38f2e71e5feaf3bf943023",
+    "domain": "sudrf.cntd.ru",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "bh",
+    "value": "EiciQ2hyb21pdW0iO3Y9IjE0MSIsICJOb3Q/QV9CcmFuZCI7dj0iOCIqAj8wOgcibWFjT1MiYJD7y8oGaiHcytG2Abvxn6sE+taGzAjS0e3rA/y5r/8H3/33swvzgQI=",
+    "domain": ".yandex.ru",
+    "path": "/",
+    "expires": 1801606544.118456,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_ym_uid",
+    "value": "1767046544439465029",
+    "domain": ".cntd.ru",
+    "path": "/",
+    "expires": 1798582544,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_ym_d",
+    "value": "1767046544",
+    "domain": ".cntd.ru",
+    "path": "/",
+    "expires": 1798582544,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sync_cookie_csrf",
+    "value": "3936920600fake",
+    "domain": ".mc.yandex.com",
+    "path": "/",
+    "expires": 1767047144,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_ym_isad",
+    "value": "2",
+    "domain": ".cntd.ru",
+    "path": "/",
+    "expires": 1767118544,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sync_cookie_csrf",
+    "value": "3343351353fake",
+    "domain": ".mc.yandex.ru",
+    "path": "/",
+    "expires": 1767047144,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "yabs-sid",
+    "value": "1925640321767046544",
+    "domain": "mc.yandex.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "i",
+    "value": "9Bi7jH/jyd0TsiBroia7brGYTSSmDCzm6kDSdZAOcpTEUqstZtGUY1edNOlkXllaRBnJUnEs2xh65vQPphzTTacB9tc=",
+    "domain": ".yandex.com",
+    "path": "/",
+    "expires": 1801606544.879921,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "yandexuid",
+    "value": "7067098641767046544",
+    "domain": ".yandex.com",
+    "path": "/",
+    "expires": 1801606544.879963,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "yuidss",
+    "value": "7067098641767046544",
+    "domain": ".yandex.com",
+    "path": "/",
+    "expires": 1798582544,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ymex",
+    "value": "1798582544.yrts.1767046544#1798582544.yrtsi.1767046544",
+    "domain": ".yandex.com",
+    "path": "/",
+    "expires": 1798582544,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "receive-cookie-deprecation",
+    "value": "1",
+    "domain": ".yandex.com",
+    "path": "/",
+    "expires": 1798582544,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://cntd.ru",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "bh",
+    "value": "EiciQ2hyb21pdW0iO3Y9IjE0MSIsICJOb3Q/QV9CcmFuZCI7dj0iOCIaA2FybSINMTQxLjAuNzM5MC4zNyoCPzA6ByJtYWNPUyJCBjE1LjcuMEoCNjRSNiJDaHJvbWl1bSI7dj0iMTQxLjAuNzM5MC4zNyIsIk5vdD9BX0JyYW5kIjt2PSI4LjAuMC4wImCR+8vKBmoh3MrRtgG78Z+rBPrWhswI0tHt6wP8ua//B9/997ML84EC",
+    "domain": ".yandex.com",
+    "path": "/",
+    "expires": 1801606545,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sync_cookie_csrf_secondary",
+    "value": "2837604636fake",
+    "domain": ".mc.yandex.com",
+    "path": "/",
+    "expires": 1767047145,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sync_cookie_csrf_secondary",
+    "value": "3035944834fake",
+    "domain": ".mc.yandex.ru",
+    "path": "/",
+    "expires": 1767047145,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sync_cookie_ok_secondary",
+    "value": "synced",
+    "domain": ".mc.yandex.com",
+    "path": "/",
+    "expires": 1767132945,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "yandexuid",
+    "value": "7067098641767046544",
+    "domain": ".yandex.ru",
+    "path": "/",
+    "expires": 1801606545.524467,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "yuidss",
+    "value": "7067098641767046544",
+    "domain": ".yandex.ru",
+    "path": "/",
+    "expires": 1801606545.524552,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "i",
+    "value": "9Bi7jH/jyd0TsiBroia7brGYTSSmDCzm6kDSdZAOcpTEUqstZtGUY1edNOlkXllaRBnJUnEs2xh65vQPphzTTacB9tc=",
+    "domain": ".yandex.ru",
+    "path": "/",
+    "expires": 1801606545.524574,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_ym_visorc",
+    "value": "w",
+    "domain": ".cntd.ru",
+    "path": "/",
+    "expires": 1767048345,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  }
+]

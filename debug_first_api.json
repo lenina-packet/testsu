@@ -1,0 +1,101 @@
+{
+  "data": [
+    {
+      "id": 573727821,
+      "names": [
+        "Об утверждении решения о проведении открытых торгов в форме аукциона на право получения лицензии на осуществление деятельности в области оказания услуг связи с использованием радиочастотного спектра в полосах радиочастот 791-798,5 МГц и 832-839,5 МГц на территории города федерального значения Севастополь "
+      ],
+      "status": {
+        "id": 1,
+        "name": "Действующий",
+        "icon": "actual"
+      },
+      "categories": [
+        3
+      ],
+      "registrations": [
+        {
+          "date": "2021-02-20",
+          "number": "107",
+          "department": {
+            "id": 902110164,
+            "name": "Минцифры России"
+          },
+          "doctype": {
+            "id": 902110165,
+            "name": "Приказ Минцифры России"
+          }
+        }
+      ],
+      "in_product_created": "2021-03-04",
+      "in_product_updated": null,
+      "action_start_date": "2021-02-20",
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 603341663,
+      "names": [
+        "О реализации проекта \"Культура для школьников\""
+      ],
+      "status": {
+        "id": 1,
+        "name": "Действующий",
+        "icon": "actual"
+      },
+      "categories": [
+        3
+      ],
+      "registrations": [
+        {
+          "date": "2020-12-23",
+          "number": "8/СК-9/06",
+          "department": {
+            "id": 9000321,
+            "name": "Минкультуры России"
+          },
+          "doctype": {
+            "id": 901852289,
+            "name": "Решение коллегии Минкультуры России"
+          }
+        },
+        {
+          "date": null,
+          "number": null,
+          "department": {
+            "id": 604046859,
+            "name": "Минпросвещения России"
+          },
+          "doctype": {
+            "id": null,
+            "name": null
+          }
+        }
+      ],
+      "in_product_created": "2021-04-26",
+      "in_product_updated": null,
+      "action_start_date": "2020-12-23",
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    }
+  ],
+  "pagination": {
+    "total": 2,
+    "per_page": 20,
+    "cursor": null
+  },
+  "meta": {
+    "version": "3.9.9",
+    "revision": "ecaa1804"
+  }
+}

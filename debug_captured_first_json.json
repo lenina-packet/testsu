@@ -1,0 +1,765 @@
+{
+  "data": [
+    {
+      "id": 548611508,
+      "names": [
+        "10-17706/2020"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2020-09-21",
+          "number": "10-17706/2020",
+          "department": {
+            "id": 901812182,
+            "name": "Московский городской суд"
+          },
+          "doctype": {
+            "id": 604002372,
+            "name": "Постановление Московского городского суда"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 548611535,
+      "names": [
+        "10-17645/2020"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2020-09-21",
+          "number": "10-17645/2020",
+          "department": {
+            "id": 604002332,
+            "name": "Судебная коллегия по уголовным делам Московского городского суда"
+          },
+          "doctype": {
+            "id": 604002347,
+            "name": "Определение Судебной коллегии по уголовным делам Московского городского суда"
+          }
+        },
+        {
+          "date": null,
+          "number": null,
+          "department": {
+            "id": 901812182,
+            "name": "Московский городской суд"
+          },
+          "doctype": {
+            "id": null,
+            "name": null
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 548611539,
+      "names": [
+        "10-17708/2020"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2020-09-21",
+          "number": "10-17708/2020",
+          "department": {
+            "id": 604002332,
+            "name": "Судебная коллегия по уголовным делам Московского городского суда"
+          },
+          "doctype": {
+            "id": 604002347,
+            "name": "Определение Судебной коллегии по уголовным делам Московского городского суда"
+          }
+        },
+        {
+          "date": null,
+          "number": null,
+          "department": {
+            "id": 901812182,
+            "name": "Московский городской суд"
+          },
+          "doctype": {
+            "id": null,
+            "name": null
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 548611602,
+      "names": [
+        "10-17852/2020"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2020-09-21",
+          "number": "10-17852/2020",
+          "department": {
+            "id": 604002332,
+            "name": "Судебная коллегия по уголовным делам Московского городского суда"
+          },
+          "doctype": {
+            "id": 604002347,
+            "name": "Определение Судебной коллегии по уголовным делам Московского городского суда"
+          }
+        },
+        {
+          "date": null,
+          "number": null,
+          "department": {
+            "id": 901812182,
+            "name": "Московский городской суд"
+          },
+          "doctype": {
+            "id": null,
+            "name": null
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 548611614,
+      "names": [
+        "10-17644/2020"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2020-09-21",
+          "number": "10-17644/2020",
+          "department": {
+            "id": 901812182,
+            "name": "Московский городской суд"
+          },
+          "doctype": {
+            "id": 604002372,
+            "name": "Постановление Московского городского суда"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 548611626,
+      "names": [
+        "10-17853/2020"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2020-09-21",
+          "number": "10-17853/2020",
+          "department": {
+            "id": 901812182,
+            "name": "Московский городской суд"
+          },
+          "doctype": {
+            "id": 604002372,
+            "name": "Постановление Московского городского суда"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 548611629,
+      "names": [
+        "10-16024/2020"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2020-09-21",
+          "number": "10-16024/2020",
+          "department": {
+            "id": 604002332,
+            "name": "Судебная коллегия по уголовным делам Московского городского суда"
+          },
+          "doctype": {
+            "id": 604002347,
+            "name": "Определение Судебной коллегии по уголовным делам Московского городского суда"
+          }
+        },
+        {
+          "date": null,
+          "number": null,
+          "department": {
+            "id": 901812182,
+            "name": "Московский городской суд"
+          },
+          "doctype": {
+            "id": null,
+            "name": null
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 548611639,
+      "names": [
+        "10-17647/2020"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2020-09-21",
+          "number": "10-17647/2020",
+          "department": {
+            "id": 901812182,
+            "name": "Московский городской суд"
+          },
+          "doctype": {
+            "id": 604002372,
+            "name": "Постановление Московского городского суда"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 548611720,
+      "names": [
+        "10-17379/2020"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2020-09-21",
+          "number": "10-17379/2020",
+          "department": {
+            "id": 901812182,
+            "name": "Московский городской суд"
+          },
+          "doctype": {
+            "id": 604002372,
+            "name": "Постановление Московского городского суда"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 548611741,
+      "names": [
+        "10-17649/2020"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2020-09-21",
+          "number": "10-17649/2020",
+          "department": {
+            "id": 901812182,
+            "name": "Московский городской суд"
+          },
+          "doctype": {
+            "id": 604002372,
+            "name": "Постановление Московского городского суда"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 548611796,
+      "names": [
+        "10-15667/2020"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2020-09-21",
+          "number": "10-15667/2020",
+          "department": {
+            "id": 604002332,
+            "name": "Судебная коллегия по уголовным делам Московского городского суда"
+          },
+          "doctype": {
+            "id": 604002347,
+            "name": "Определение Судебной коллегии по уголовным делам Московского городского суда"
+          }
+        },
+        {
+          "date": null,
+          "number": null,
+          "department": {
+            "id": 901812182,
+            "name": "Московский городской суд"
+          },
+          "doctype": {
+            "id": null,
+            "name": null
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 548611815,
+      "names": [
+        "10-16666/2020"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2020-09-21",
+          "number": "10-16666/2020",
+          "department": {
+            "id": 604002332,
+            "name": "Судебная коллегия по уголовным делам Московского городского суда"
+          },
+          "doctype": {
+            "id": 604002347,
+            "name": "Определение Судебной коллегии по уголовным делам Московского городского суда"
+          }
+        },
+        {
+          "date": null,
+          "number": null,
+          "department": {
+            "id": 901812182,
+            "name": "Московский городской суд"
+          },
+          "doctype": {
+            "id": null,
+            "name": null
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 548611824,
+      "names": [
+        "10-17617/2020"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2020-09-21",
+          "number": "10-17617/2020",
+          "department": {
+            "id": 901812182,
+            "name": "Московский городской суд"
+          },
+          "doctype": {
+            "id": 604002372,
+            "name": "Постановление Московского городского суда"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 548611832,
+      "names": [
+        "10-17701/2020"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2020-09-21",
+          "number": "10-17701/2020",
+          "department": {
+            "id": 901812182,
+            "name": "Московский городской суд"
+          },
+          "doctype": {
+            "id": 604002372,
+            "name": "Постановление Московского городского суда"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 548611987,
+      "names": [
+        "10-17766/2020"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2020-09-21",
+          "number": "10-17766/2020",
+          "department": {
+            "id": 901812182,
+            "name": "Московский городской суд"
+          },
+          "doctype": {
+            "id": 604002372,
+            "name": "Постановление Московского городского суда"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 548611992,
+      "names": [
+        "10-17201/2020"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2020-09-21",
+          "number": "10-17201/2020",
+          "department": {
+            "id": 901812182,
+            "name": "Московский городской суд"
+          },
+          "doctype": {
+            "id": 604002372,
+            "name": "Постановление Московского городского суда"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 548611994,
+      "names": [
+        "10-17763/2020"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2020-09-21",
+          "number": "10-17763/2020",
+          "department": {
+            "id": 901812182,
+            "name": "Московский городской суд"
+          },
+          "doctype": {
+            "id": 604002372,
+            "name": "Постановление Московского городского суда"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 548612001,
+      "names": [
+        "10-17764/2020"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2020-09-21",
+          "number": "10-17764/2020",
+          "department": {
+            "id": 901812182,
+            "name": "Московский городской суд"
+          },
+          "doctype": {
+            "id": 604002372,
+            "name": "Постановление Московского городского суда"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 548612006,
+      "names": [
+        "10-17761/2020"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2020-09-21",
+          "number": "10-17761/2020",
+          "department": {
+            "id": 901812182,
+            "name": "Московский городской суд"
+          },
+          "doctype": {
+            "id": 604002372,
+            "name": "Постановление Московского городского суда"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 548612015,
+      "names": [
+        "10-17285/2020"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2020-09-21",
+          "number": "10-17285/2020",
+          "department": {
+            "id": 901812182,
+            "name": "Московский городской суд"
+          },
+          "doctype": {
+            "id": 604002372,
+            "name": "Постановление Московского городского суда"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    }
+  ],
+  "pagination": {
+    "total": 10000,
+    "per_page": 20,
+    "cursor": "WyIyMDIwLTA5LTIxIiwwLjIyNzY0NDcsNTQ4NjEyMDE1XQ=="
+  },
+  "meta": {
+    "version": "3.9.9",
+    "revision": "ecaa1804"
+  }
+}

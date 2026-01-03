@@ -1,0 +1,693 @@
+{
+  "data": [
+    {
+      "id": 704017554,
+      "names": [
+        "А60-70947/2023"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2025-12-01",
+          "number": "А60-70947/2023",
+          "department": {
+            "id": 716000003,
+            "name": "Арбитражный суд Свердловской области"
+          },
+          "doctype": {
+            "id": 716000004,
+            "name": "Решение Арбитражного суда Свердловской области"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 704017559,
+      "names": [
+        "А60-74989/2024"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2025-12-01",
+          "number": "А60-74989/2024",
+          "department": {
+            "id": 716000003,
+            "name": "Арбитражный суд Свердловской области"
+          },
+          "doctype": {
+            "id": 716000004,
+            "name": "Решение Арбитражного суда Свердловской области"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 704017577,
+      "names": [
+        "А60-60626/2025"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2025-12-01",
+          "number": "А60-60626/2025",
+          "department": {
+            "id": 716000003,
+            "name": "Арбитражный суд Свердловской области"
+          },
+          "doctype": {
+            "id": 716000004,
+            "name": "Решение Арбитражного суда Свердловской области"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 704017627,
+      "names": [
+        "А60-61159/2025"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2025-12-01",
+          "number": "А60-61159/2025",
+          "department": {
+            "id": 716000003,
+            "name": "Арбитражный суд Свердловской области"
+          },
+          "doctype": {
+            "id": 716000004,
+            "name": "Решение Арбитражного суда Свердловской области"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 704017628,
+      "names": [
+        "А60-61163/2025"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2025-12-01",
+          "number": "А60-61163/2025",
+          "department": {
+            "id": 716000003,
+            "name": "Арбитражный суд Свердловской области"
+          },
+          "doctype": {
+            "id": 716000004,
+            "name": "Решение Арбитражного суда Свердловской области"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 704017630,
+      "names": [
+        "А60-61201/2025"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2025-12-01",
+          "number": "А60-61201/2025",
+          "department": {
+            "id": 716000003,
+            "name": "Арбитражный суд Свердловской области"
+          },
+          "doctype": {
+            "id": 716000004,
+            "name": "Решение Арбитражного суда Свердловской области"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 704017635,
+      "names": [
+        "А60-61323/2025"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2025-12-01",
+          "number": "А60-61323/2025",
+          "department": {
+            "id": 716000003,
+            "name": "Арбитражный суд Свердловской области"
+          },
+          "doctype": {
+            "id": 716000004,
+            "name": "Решение Арбитражного суда Свердловской области"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 704017651,
+      "names": [
+        "А60-61557/2025"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2025-12-01",
+          "number": "А60-61557/2025",
+          "department": {
+            "id": 716000003,
+            "name": "Арбитражный суд Свердловской области"
+          },
+          "doctype": {
+            "id": 716000004,
+            "name": "Решение Арбитражного суда Свердловской области"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 704017652,
+      "names": [
+        "А60-61558/2025"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2025-12-01",
+          "number": "А60-61558/2025",
+          "department": {
+            "id": 716000003,
+            "name": "Арбитражный суд Свердловской области"
+          },
+          "doctype": {
+            "id": 716000004,
+            "name": "Решение Арбитражного суда Свердловской области"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 704017658,
+      "names": [
+        "А60-61811/2025"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2025-12-01",
+          "number": "А60-61811/2025",
+          "department": {
+            "id": 716000003,
+            "name": "Арбитражный суд Свердловской области"
+          },
+          "doctype": {
+            "id": 716000004,
+            "name": "Решение Арбитражного суда Свердловской области"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 704017659,
+      "names": [
+        "А60-62005/2025"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2025-12-01",
+          "number": "А60-62005/2025",
+          "department": {
+            "id": 716000003,
+            "name": "Арбитражный суд Свердловской области"
+          },
+          "doctype": {
+            "id": 716000004,
+            "name": "Решение Арбитражного суда Свердловской области"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 704017660,
+      "names": [
+        "А60-62021/2025"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2025-12-01",
+          "number": "А60-62021/2025",
+          "department": {
+            "id": 716000003,
+            "name": "Арбитражный суд Свердловской области"
+          },
+          "doctype": {
+            "id": 716000004,
+            "name": "Решение Арбитражного суда Свердловской области"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 704017661,
+      "names": [
+        "А60-62057/2025"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2025-12-01",
+          "number": "А60-62057/2025",
+          "department": {
+            "id": 716000003,
+            "name": "Арбитражный суд Свердловской области"
+          },
+          "doctype": {
+            "id": 716000004,
+            "name": "Решение Арбитражного суда Свердловской области"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 704018015,
+      "names": [
+        "А60-49109/2025"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2025-12-01",
+          "number": "А60-49109/2025",
+          "department": {
+            "id": 716000003,
+            "name": "Арбитражный суд Свердловской области"
+          },
+          "doctype": {
+            "id": 716000004,
+            "name": "Решение Арбитражного суда Свердловской области"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 704018021,
+      "names": [
+        "А60-52343/2025"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2025-12-01",
+          "number": "А60-52343/2025",
+          "department": {
+            "id": 716000003,
+            "name": "Арбитражный суд Свердловской области"
+          },
+          "doctype": {
+            "id": 716000004,
+            "name": "Решение Арбитражного суда Свердловской области"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 704018025,
+      "names": [
+        "А60-52886/2025"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2025-12-01",
+          "number": "А60-52886/2025",
+          "department": {
+            "id": 716000003,
+            "name": "Арбитражный суд Свердловской области"
+          },
+          "doctype": {
+            "id": 716000004,
+            "name": "Решение Арбитражного суда Свердловской области"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 704018027,
+      "names": [
+        "А60-53016/2025"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2025-12-01",
+          "number": "А60-53016/2025",
+          "department": {
+            "id": 716000003,
+            "name": "Арбитражный суд Свердловской области"
+          },
+          "doctype": {
+            "id": 716000004,
+            "name": "Решение Арбитражного суда Свердловской области"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 704018031,
+      "names": [
+        "А60-53189/2025"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2025-12-01",
+          "number": "А60-53189/2025",
+          "department": {
+            "id": 716000003,
+            "name": "Арбитражный суд Свердловской области"
+          },
+          "doctype": {
+            "id": 716000004,
+            "name": "Решение Арбитражного суда Свердловской области"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 704018032,
+      "names": [
+        "А60-53282/2025"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2025-12-01",
+          "number": "А60-53282/2025",
+          "department": {
+            "id": 716000003,
+            "name": "Арбитражный суд Свердловской области"
+          },
+          "doctype": {
+            "id": 716000004,
+            "name": "Решение Арбитражного суда Свердловской области"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    },
+    {
+      "id": 704018037,
+      "names": [
+        "А60-53664/2025"
+      ],
+      "status": null,
+      "categories": [
+        5
+      ],
+      "registrations": [
+        {
+          "date": "2025-12-01",
+          "number": "А60-53664/2025",
+          "department": {
+            "id": 716000003,
+            "name": "Арбитражный суд Свердловской области"
+          },
+          "doctype": {
+            "id": 716000004,
+            "name": "Решение Арбитражного суда Свердловской области"
+          }
+        }
+      ],
+      "in_product_created": null,
+      "in_product_updated": null,
+      "action_start_date": null,
+      "access": "full",
+      "seo": null,
+      "is_favorite": false,
+      "hidden": {
+        "status": false,
+        "registrations": false
+      }
+    }
+  ],
+  "pagination": {
+    "total": 10000,
+    "per_page": 20,
+    "cursor": "WyIyMDI1LTEyLTAxIiwwLjQ1NTI4OTQsNzA0MDE4MDM3XQ=="
+  },
+  "meta": {
+    "version": "3.9.9",
+    "revision": "ecaa1804"
+  }
+}
